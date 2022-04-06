@@ -5,4 +5,4 @@ Link to the actual pdf down below, written in swedish down below, enjoy.
 
 https://liu.diva-portal.org/smash/get/diva2:1574150/FULLTEXT01.pdf
 
-As described in the we perform portfolio allocations optimzed by sharpe ratio, DCC-GARCH, Multiple Regression and various tests to confirm the validoty of our results such as Engle-Granger and Breusch-Pagan tests.
+As described in the thesis we perform portfolio allocations optimzed by sharpe ratio, DCC-GARCH, Multiple Regression and various tests to confirm the validoty of our results such as Engle-Granger and Breusch-Pagan tests.
